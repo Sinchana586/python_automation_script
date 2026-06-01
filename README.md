@@ -1,4 +1,4 @@
- File Cleanup and Renaming Automation
+### File Cleanup and Renaming Automation
 
 ## Overview
 This project is a Python-based automation script designed to perform file management tasks automatically. It helps organize files by deleting empty files and renaming existing files using a standardized naming convention. The script also maintains a log of all operations performed, making it easy to track and monitor changes.
